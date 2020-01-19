@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, group-title="Music", 1 Music Channel
+#EXTINF:-1, group-title="Music", 1 Music Channel RO
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w243000391.m3u8
 #EXTINF:-1, group-title="Music", 1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
