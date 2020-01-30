@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1, group-title="Music", 1 Music Channel Hungary
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w243000391.m3u8
-#EXTINF:-1, group-title="Music", 1 Music Channel Hungary
 http://1music.hu/1music.m3u8
+#EXTINF:-1, group-title="Music", 1 Music Channel Hungary
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w243000391.m3u8
 #EXTINF:-1, group-title="Music", 1 Music Channel Romania
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1, group-title="Региональные", 1 РНК
@@ -16,15 +16,23 @@ http://109.95.47.229:809/1+1/index.m3u8
 #EXTINF:-1, group-title="Украина", 100 automoto.TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1, group-title="Украина", 100% News
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1, group-title="Украина", 100% News
 http://62.113.210.250/medienasa-live/_definst_/mp4:RFH_high/chunklist_w455064056.m3u8
-#EXTINF:-1, group-title="Украина", 11 канал
-http://212.3.106.230/hls-live/live/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1, group-title="Украина", 100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1, group-title="Украина", 11 канал
 http://real-g2.sobor.net/hls-live/live/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1, group-title="Украина", 11 канал
+http://212.3.106.230/hls-live/live/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1, group-title="Региональные", 11 канал (Полевской)
 https://hjplb2qzsf8.a.trbcdn.net/livemaster/qm9inc7byc_stream1/playlist.m3u8
+#EXTINF:-1, group-title="Украина", 112 Украина
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+#EXTINF:-1, group-title="Украина", 112 Украина
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1, group-title="Украина", 112 Украина
+http://app.live.112.events/hls-ua/112hd_low/index.m3u8
+#EXTINF:-1, group-title="Украина", 112 Украина
+http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
 #EXTINF:-1, group-title="Украина", 112 Украина
 http://app.live.112.events/hls/112hd_hi/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1, group-title="Украина", 112 Украина
@@ -38,7 +46,7 @@ http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
 #EXTINF:-1, group-title="Украина", 112 Украина
 http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
 #EXTINF:-1, group-title="Украина", 112 Украина
-http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
 #EXTINF:-1, group-title="Украина", 112 Украина
 http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
 #EXTINF:-1, group-title="Украина", 112 Украина
@@ -46,45 +54,37 @@ http://app.live.112.events/hls-ua/112hd_hi/index.m3u8?q=?seg-user-zona-iptv.ru-v
 #EXTINF:-1, group-title="Украина", 112 Украина
 http://api.tv.ipnet.ua:80/api/v1/manifest/1442908080.m3u8
 #EXTINF:-1, group-title="Украина", 112 Украина
-http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+http://app.live.112.events/hls/112hd_mid/index.m3u8
 #EXTINF:-1, group-title="Украина", 112 Украина
-http://app.live.112.events/hls-ua/112hd_mid/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
 #EXTINF:-1, group-title="Украина", 112 Украина
 http://app.live.112.events/hls/112hd_hi/index.m3u8
 #EXTINF:-1, group-title="Украина", 112 Украина
-http://app.live.112.events/hls-ua/112hd_low/index.m3u8
-#EXTINF:-1, group-title="Украина", 112 Украина
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1, group-title="Украина", 112 Украина
 http://app.live.112.events/hls/112hd_low/index.m3u8
+#EXTINF:-1, group-title="Украина", 112 Украина
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?codec=mpeg4
+#EXTINF:-1, group-title="Украина", 112 Украина
+http://95.67.21.132/hls/112hd_ua_mid/index.m3u8
 #EXTINF:-1, group-title="Украина", 112 Украина
 http://112.ua/components/flowplayer/html5/master.m3u8
 #EXTINF:-1, group-title="Украина", 112 Украина
 http://95.67.12.67/hls/112hd_mid/index.m3u8
-#EXTINF:-1, group-title="Украина", 112 Украина
-http://95.67.21.132/hls/112hd_ua_mid/index.m3u8
-#EXTINF:-1, group-title="Украина", 112 Украина
-http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?codec=mpeg4
-#EXTINF:-1, group-title="Украина", 112 Украина
-http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
-#EXTINF:-1, group-title="Украина", 112 Украина
-http://app.live.112.events/hls/112hd_mid/index.m3u8
 #EXTINF:-1, group-title="Региональные", 12 канал Омск
-https://12channel.bonus-tv.ru/stream549837052987/tracks-v1a1/mono.m3u8
+http://12channel.bonus-tv.ru/stream549837052987/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="Региональные", 12 канал Омск
 http://12channel.bonus-tv.ru:80/stream549837052987/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="Региональные", 12 канал Омск
-http://12channel.bonus-tv.ru/stream549837052987/tracks-v1a1/mono.m3u8
+https://12channel.bonus-tv.ru/stream549837052987/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="International", 13 Max
 http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
 #EXTINF:-1, group-title="International", 15 TV
 http://192.99.125.194:1935/e-tv-video/play.stream/playlist.m3u8
 #EXTINF:-1, group-title="Музыкальные", 1HD
+http://37.195.247.86:81/udp/239.1.9.6:1234
+#EXTINF:-1, group-title="Музыкальные", 1HD
 http://79.135.71.195:8032
 #EXTINF:-1, group-title="Музыкальные", 1HD
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="Музыкальные", 1HD
-http://37.195.247.86:81/udp/239.1.9.6:1234
 #EXTINF:-1, group-title="Украина", 2+2
 http://109.95.47.229:809/2+2/index.m3u8
 #EXTINF:-1, group-title="Украина", 2+2
@@ -94,19 +94,19 @@ http://213.174.8.7:8000/play/1/index.m3u8
 #EXTINF:-1, group-title="International", 218 News
 http://95.85.47.43/libya218news/tracks-v1a1/mono.m3u8
 #EXTINF:-1, group-title="Украина", 24 Украина
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1, group-title="Украина", 24 Украина
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b386000.m3u8
+#EXTINF:-1, group-title="Украина", 24 Украина
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1, group-title="Украина", 24 Украина
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
+#EXTINF:-1, group-title="Украина", 24 Украина
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1, group-title="Украина", 24 Украина
 http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
 #EXTINF:-1, group-title="Украина", 24 Украина
-http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4&app=playlist
-#EXTINF:-1, group-title="Украина", 24 Украина
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
-#EXTINF:-1, group-title="Украина", 24 Украина
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b386000.m3u8
-#EXTINF:-1, group-title="Украина", 24 Украина
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1, group-title="Украина", 24 Украина
-http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
 #EXTINF:-1, group-title="International", 24/7 Hollywood Movies 8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:-1, group-title="International", 28 KANALA
@@ -114,15 +114,15 @@ https://5940924978228.streamlock.net/8157/8157/.m3u8?fluxustv.m3u8
 #EXTINF:-1, group-title="Кино и Сериалы", 2x2
 http://79.135.71.195:8030
 #EXTINF:-1, group-title="Кино и Сериалы", 2х2
-http://178.124.183.13/hls/EU9VTLDQCN/bw1200000/playlist.m3u8
-#EXTINF:-1, group-title="Кино и Сериалы", 2х2
-http://188.243.212.85:4444/udp/239.239.3.3:5239
-#EXTINF:-1, group-title="Кино и Сериалы", 2х2
-http://178.163.58.72:4022/udp/234.0.0.244:2000
+http://178.124.183.5/hls/EU9VTLDQCN_HLS/variant.m3u8?version=2
 #EXTINF:-1, group-title="Кино и Сериалы", 2х2
 https://bl.zxz.su/live/317805/HLS/4614144_3,2883584_1,1153024_2/1568401996/a42a04c120a81672b532fc44c0360245/playlist.m3u8
 #EXTINF:-1, group-title="Кино и Сериалы", 2х2
-http://178.124.183.5/hls/EU9VTLDQCN_HLS/variant.m3u8?version=2
+http://178.163.58.72:4022/udp/234.0.0.244:2000
+#EXTINF:-1, group-title="Кино и Сериалы", 2х2
+http://178.124.183.13/hls/EU9VTLDQCN/bw1200000/playlist.m3u8
+#EXTINF:-1, group-title="Кино и Сериалы", 2х2
+http://188.243.212.85:4444/udp/239.239.3.3:5239
 #EXTINF:-1, group-title="Кино и Сериалы", 2х2 +4
 http://46.180.99.15:81/udp/239.255.42.29:1234
 #EXTINF:-1, group-title="Иностранные", 3+ Латвия
@@ -138,9 +138,9 @@ http://streamvideol.luxnet.ua/34ua/34ua.stream/chunklist.m3u8
 #EXTINF:-1, group-title="Украина", 34 канал Днепр
 http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
 #EXTINF:-1, group-title="Новости", 360° Новости
-http://strm.yandex.ru/kal/360news_supres/360news_supres0_169_480p.json/index-v1-a1.m3u8
-#EXTINF:-1, group-title="Новости", 360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+#EXTINF:-1, group-title="Новости", 360° Новости
+http://strm.yandex.ru/kal/360news_supres/360news_supres0_169_480p.json/index-v1-a1.m3u8
 #EXTINF:-1, group-title="Новости", 360° Новости HD
 https://strm.yandex.ru/kal/360news_supres/360news_supres0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1, group-title="Общее", 360° Подмосковье
@@ -150,15 +150,15 @@ http://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1, group-title="Общее", 360° Подмосковье HD
 http://188.242.173.37:81/udp/239.239.3.53:5239
 #EXTINF:-1, group-title="Кино и Сериалы", 365 дней ТВ
-http://178.124.183.13/hls/CH_365DNEY/bw1200000/playlist.m3u8
+http://86.57.225.245:7015/play/a002
 #EXTINF:-1, group-title="Кино и Сериалы", 365 дней ТВ
 https://rt-cache1.peers.tv/streaming/365_days/16/tvrec/playlist.m3u8
 #EXTINF:-1, group-title="Кино и Сериалы", 365 дней ТВ
-http://86.57.225.245:7015/play/a002
-#EXTINF:-1, group-title="Региональные", 43 канал HD (Туапсе)
-http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
+http://178.124.183.13/hls/CH_365DNEY/bw1200000/playlist.m3u8
 #EXTINF:-1, group-title="Региональные", 43 канал HD (Туапсе)
 http://sochi-strk.ru:2015/43Kanal/mpegts
+#EXTINF:-1, group-title="Региональные", 43 канал HD (Туапсе)
+http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
 #EXTINF:-1, group-title="Music", 4Fun TV
 https://stream.4fun.tv:8888/hls/4f_med/index.m3u8
 #EXTINF:-1, group-title="Украина", 5 канал Украина
@@ -172,13 +172,13 @@ http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 #EXTINF:-1, group-title="Украина", 7 канал Одесса
 https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr-lq/playlist.m3u8
 #EXTINF:-1, group-title="Украина", 7 канал Одесса
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/playlist.m3u8
-#EXTINF:-1, group-title="Украина", 7 канал Одесса
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/7tvod/7tvod/chunks.m3u8
 #EXTINF:-1, group-title="Украина", 7 канал Одесса
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/chunks.m3u8
 #EXTINF:-1, group-title="Украина", 7 канал Одесса
-https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/7tvod/7tvod/chunks.m3u8
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1, group-title="Украина", 7 канал Одесса
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/playlist.m3u8
 #EXTINF:-1, group-title="Общее", 8 канал
 http://79.135.71.195:8017
 #EXTINF:-1, group-title="Общее", 8 канал
@@ -186,9 +186,9 @@ http://178.22.107.67:7000/play/8TVRU
 #EXTINF:-1, group-title="Беларусь", 8 канал Беларусь
 http://178.124.183.13/hls/ZXUZZKCA6P/bw1200000/playlist.m3u8
 #EXTINF:-1, group-title="Беларусь", 8 канал Беларусь
-http://91.215.176.238:8000/8channel
-#EXTINF:-1, group-title="Беларусь", 8 канал Беларусь
 http://178.124.183.5/hls/ZXUZZKCA6P_HLS/variant.m3u8
+#EXTINF:-1, group-title="Беларусь", 8 канал Беларусь
+http://91.215.176.238:8000/8channel
 #EXTINF:-1, group-title="Беларусь", 8 канал Витебск
 http://95.46.208.8:24433/art
 #EXTINF:-1, group-title="Региональные", 8 канал Владивосток
@@ -198,45 +198,45 @@ http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
 #EXTINF:-1, group-title="Региональные", 8 канал Крым
 http://176.99.110.252/stream8/playlist.m3u8
 #EXTINF:-1, group-title="Региональные", 86 Сургут
-https://sitv.ru/hls/s86128.m3u8
-#EXTINF:-1, group-title="Региональные", 86 Сургут
 https://sitv.ru/hls/s861024.m3u8
-#EXTINF:-1, group-title="Иностранные", 9 волна
-http://serv25.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1, group-title="Региональные", 86 Сургут
+https://sitv.ru/hls/s86128.m3u8
 #EXTINF:-1, group-title="Иностранные", 9 волна
 http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="Иностранные", 9 волна
+http://serv25.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 #EXTINF:-1, group-title="Украина", 9 канал Днепр
 http://212.115.229.81:1935/out/9tv_fb/playlist.m3u8
+#EXTINF:-1, group-title="Кино и Сериалы", A HOME OF HBO 1
+http://178.163.32.6:81/udp/234.0.0.169:2000
 #EXTINF:-1, group-title="Кино и Сериалы", A HOME OF HBO 1
 http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8?version=2
 #EXTINF:-1, group-title="Кино и Сериалы", A HOME OF HBO 1
 http://178.163.109.216:34040/udp/234.0.0.169:2000
 #EXTINF:-1, group-title="Кино и Сериалы", A HOME OF HBO 1
-http://188.35.9.11:21131/udp/164g
-#EXTINF:-1, group-title="Кино и Сериалы", A HOME OF HBO 1
 http://178.163.58.72:4022/udp/234.0.0.169:2000
 #EXTINF:-1, group-title="Кино и Сериалы", A HOME OF HBO 1
 https://rt-cache1.peers.tv/streaming/amedia_hit/16/variable.m3u8
 #EXTINF:-1, group-title="Кино и Сериалы", A HOME OF HBO 1
-http://178.163.32.6:81/udp/234.0.0.169:2000
+http://188.35.9.11:21131/udp/164g
 #EXTINF:-1, group-title="Кино и Сериалы", A HOME OF HBO 2
-http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8
+http://178.124.183.5/hls/CH_FAMILY_HLS/variant.m3u8?version=2
 #EXTINF:-1, group-title="Кино и Сериалы", A HOME OF HBO 2
 http://178.124.183.5/hls/CH_FAMILY_HLS/variant.m3u8
 #EXTINF:-1, group-title="Кино и Сериалы", A HOME OF HBO 2
 https://rt-cache1.peers.tv/streaming/amediapremium_hd/16/hd/playlist.m3u8
 #EXTINF:-1, group-title="Кино и Сериалы", A HOME OF HBO 2
-http://178.124.183.5/hls/CH_FAMILY_HLS/variant.m3u8?version=2
+http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8
 #EXTINF:-1, group-title="Украина", A1 Одеса
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
-#EXTINF:-1, group-title="Украина", A1 Одеса
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/chunks.m3u8
-#EXTINF:-1, group-title="Украина", A1 Одеса
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr-lq/playlist.m3u8
 #EXTINF:-1, group-title="Украина", A1 Одеса
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
 #EXTINF:-1, group-title="Украина", A1 Одеса
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
+#EXTINF:-1, group-title="Украина", A1 Одеса
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr-lq/playlist.m3u8
+#EXTINF:-1, group-title="Украина", A1 Одеса
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/chunks.m3u8
 #EXTINF:-1, group-title="Music", ACB TV
 http://79.135.71.195:8033
 #EXTINF:-1, group-title="Иностранные", Accent TV
@@ -248,15 +248,15 @@ http://cdn.adultiptv.net/bigtits.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Anal
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Big Ass
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigass.m3u8
-#EXTINF:-1, group-title="18+", Adult IPTV Big Ass
 http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1, group-title="18+", Adult IPTV Big Ass
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigass.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Big Ass
 http://live.redtraffic.xyz/bigass.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Big Dick
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1, group-title="18+", Adult IPTV Big Dick
 http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1, group-title="18+", Adult IPTV Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Big Tits HD
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/bigtits.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Blonde
@@ -266,9 +266,9 @@ http://cdn.adultiptv.net/brunette.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Compilation
 http://cdn.adultiptv.net/compilation.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Cuckold
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1, group-title="18+", Adult IPTV Cuckold
 http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1, group-title="18+", Adult IPTV Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Fetish
 http://live.redtraffic.xyz/fetish.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Fetish
@@ -276,51 +276,51 @@ http://cdn.adultiptv.net/fetish.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Gangbang
 http://cdn.adultiptv.net/gangbang.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Hardcore
-http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1, group-title="18+", Adult IPTV Hardcore
 http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1, group-title="18+", Adult IPTV Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Hardcore
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/hardcore.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Interracial
 http://live.redtraffic.xyz/interracial.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Interracial
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/interracial.m3u8
-#EXTINF:-1, group-title="18+", Adult IPTV Interracial
 http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1, group-title="18+", Adult IPTV Interracial
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/interracial.m3u8
+#EXTINF:-1, group-title="18+", Adult IPTV Latina
+http://live.redtraffic.xyz/latina.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Latina
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/latina.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Latina
 http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1, group-title="18+", Adult IPTV Latina
-http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1, group-title="18+", Adult IPTV Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Lesbian
 http://live.redtraffic.xyz/lesbian.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Lesbian
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/lesbian.m3u8
-#EXTINF:-1, group-title="18+", Adult IPTV Lesbian
-http://cdn.adultiptv.net/lesbian.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Livecams
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Milf
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1, group-title="18+", Adult IPTV Milf
 http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1, group-title="18+", Adult IPTV Milf
+http://live.redtraffic.xyz/milf.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Pornstar
-http://live.redtraffic.xyz/pornstar.m3u8
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/pornstar.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Pornstar
 http://cdn.adultiptv.net/pornstar.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Pornstar
-http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/pornstar.m3u8
-#EXTINF:-1, group-title="18+", Adult IPTV POV
-http://live.redtraffic.xyz/pov.m3u8
+http://live.redtraffic.xyz/pornstar.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV POV
 http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1, group-title="18+", Adult IPTV POV
+http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Rough
 http://cdn.adultiptv.net/rough.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Russian
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1, group-title="18+", Adult IPTV Russian
 http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1, group-title="18+", Adult IPTV Russian
+http://live.redtraffic.xyz/russian.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Teen
 http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1, group-title="18+", Adult IPTV Teen
@@ -334,19 +334,19 @@ http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/threesome.m3u8
 #EXTINF:-1, group-title="International", Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1, group-title="Музыкальные", AIVA
-https://strm.yandex.ru/kal/aiva/aiva0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1, group-title="Музыкальные", AIVA
 https://strm.yandex.ru/kal/aiva/aiva0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1, group-title="Музыкальные", AIVA
+https://strm.yandex.ru/kal/aiva/aiva0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1, group-title="International", AKC TV HD (England)
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1, group-title="International", Al Jazeera International
-http://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
-#EXTINF:-1, group-title="International", Al Jazeera International
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+http://english.streaming.aljazeera.net/aljazeera/english2/index255.m3u8
 #EXTINF:-1, group-title="International", Al Jazeera International
 http://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 #EXTINF:-1, group-title="International", Al Jazeera International
-http://english.streaming.aljazeera.net/aljazeera/english2/index255.m3u8
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:-1, group-title="International", Al Jazeera International
+http://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
 #EXTINF:-1, group-title="Music", ALB MUSIC
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
 #EXTINF:-1, group-title="International", Alfaomega TV
@@ -362,11 +362,11 @@ http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/137/index.m3u8
 #EXTINF:-1, group-title="Познавательные", Animal Planet
 https://rt-cache1.peers.tv/streaming/animalplanet/16/tvrecw/playlist.m3u8
 #EXTINF:-1, group-title="Познавательные", Animal Planet HD
+http://182.73.122.74:10004/bysid/1112
+#EXTINF:-1, group-title="Познавательные", Animal Planet HD
 http://iptv4.premium-stv.com:8000/live/SOURCEUSAPRO1/Y3puYbhjNn/1480.ts
 #EXTINF:-1, group-title="Познавательные", Animal Planet HD
 http://78.157.230.19/streaming/animalplanet/364/gpu_tvrecw/playlist.m3u8
-#EXTINF:-1, group-title="Познавательные", Animal Planet HD
-http://182.73.122.74:10004/bysid/1112
 #EXTINF:-1, group-title="International", Anixe HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1, group-title="Познавательные", Anyday HD
@@ -380,19 +380,19 @@ http://sc.id-tv.kz/Atameken_34_35.m3u8
 #EXTINF:-1, group-title="International", ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1, group-title="International", Atlanta Channel
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
-#EXTINF:-1, group-title="International", Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
-#EXTINF:-1, group-title="Украина", ATR
-http://stream.atr.ua/atr/live/index.m3u8
-#EXTINF:-1, group-title="Украина", ATR
-http://stream.atr.ua/atr/live/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1, group-title="Украина", ATR
-http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8?codec=mpeg4
+#EXTINF:-1, group-title="International", Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 #EXTINF:-1, group-title="Украина", ATR
 https://cdnua01.hls.tv/hls/f656cabfabc76f85eb594e6bf6094df0/3936/stream.m3u8
 #EXTINF:-1, group-title="Украина", ATR
 http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
+#EXTINF:-1, group-title="Украина", ATR
+http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8?codec=mpeg4
+#EXTINF:-1, group-title="Украина", ATR
+http://stream.atr.ua/atr/live/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1, group-title="Украина", ATR
+http://stream.atr.ua/atr/live/index.m3u8
 #EXTINF:-1, group-title="International", ATV 2
 http://85.132.81.184:8080/atv-2/index.m3u8
 #EXTINF:-1, group-title="International", ATV 4
@@ -402,9 +402,9 @@ http://85.132.81.184:8080/atv/index.m3u8
 #EXTINF:-1, group-title="International", AUTOMOTO TV
 http://streaming.wim.tv:1935/live/_definst_/streamingautomototv_aac/playlist.m3u8
 #EXTINF:-1, group-title="Music", B4U MUSIC
-http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
-#EXTINF:-1, group-title="Music", B4U MUSIC
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1, group-title="Music", B4U MUSIC
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 #EXTINF:-1, group-title="Взрослые", BabeStation 24
 http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
 #EXTINF:-1, group-title="Взрослые", BabeStation 24
@@ -418,11 +418,11 @@ http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1452818509.m3u8
 #EXTINF:-1, group-title="International", Bahrain Sport 2
 http://185.105.4.107:1935/live/Bahrain%20Sports%202/chunklist.m3u8
 #EXTINF:-1, group-title="Украина", Bambarbia TV
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-720p/playlist.m3u8
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 #EXTINF:-1, group-title="Украина", Bambarbia TV
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1, group-title="Украина", Bambarbia TV
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-720p/playlist.m3u8
 #EXTINF:-1, group-title="International", BBC
 http://213.252.252.17/live/eds/BBC/HLS_encr/BBC.m3u8
 #EXTINF:-1, group-title="International", BBC
@@ -434,103 +434,103 @@ http://178.22.107.67:7000/play/BBCEnglishMidEast
 #EXTINF:-1, group-title="International", BBC Horn of Africa GB
 http://178.22.107.67:7000/play/BBCHornofAfricaGB
 #EXTINF:-1, group-title="International", BBC News
-http://51.52.156.22:8888/http/004
-#EXTINF:-1, group-title="International", BBC News
 https://streamingserver003.viewtvgroup.com:443/kapanglocal-playout-master/index.m3u8
+#EXTINF:-1, group-title="International", BBC News
+http://51.52.156.22:8888/http/004
 #EXTINF:-1, group-title="International", BBC World News
-http://128.69.251.143:4022/udp/233.33.210.16:5050
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1, group-title="International", BBC World News
 http://178.22.107.67:7000/play/BBCWorldNewsGB
 #EXTINF:-1, group-title="International", BBC World News
-http://195.142.109.181:8013
+http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
 #EXTINF:-1, group-title="International", BBC World News
 http://88.119.220.2/live/eds/BBC/HLS_encr/BBC.m3u8
 #EXTINF:-1, group-title="International", BBC World News
-http://185.176.117.243/live/eds/BBC/HLS_encr/BBC.m3u8
+http://128.69.251.143:4022/udp/233.33.210.16:5050
 #EXTINF:-1, group-title="International", BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+http://195.142.109.181:8013
 #EXTINF:-1, group-title="International", BeIN Sport 1
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD1.m3u8
 #EXTINF:-1, group-title="International", BeIN Sport 2
 http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
 #EXTINF:-1, group-title="International", BeIN Sport 4
-https://tinyurl.com/wjb556x
-#EXTINF:-1, group-title="International", BeIN Sport 4
 http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
+#EXTINF:-1, group-title="International", BeIN Sport 4
+https://tinyurl.com/wjb556x
 #EXTINF:-1, group-title="International", BFM Paris
 http://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
 #EXTINF:-1, group-title="International", Big News HD
 https://live.chdrstatic.com/cbn/primary/2.m3u8
+#EXTINF:-1, group-title="International", Bloomberg
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+#EXTINF:-1, group-title="International", Bloomberg
+http://77.109.171.191:8000/play/a06s
+#EXTINF:-1, group-title="International", Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1, group-title="International", Bloomberg
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1, group-title="International", Bloomberg
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1, group-title="International", Bloomberg
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 #EXTINF:-1, group-title="International", Bloomberg
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1, group-title="International", Bloomberg
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1, group-title="International", Bloomberg
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1, group-title="International", Bloomberg
-http://77.109.171.191:8000/play/a06s
-#EXTINF:-1, group-title="International", Bloomberg
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-#EXTINF:-1, group-title="Взрослые", Blue Hustler
-http://178.124.183.13/hls/CH_BLUEHUSTLER/bw1200000/playlist.m3u8
-#EXTINF:-1, group-title="Взрослые", Blue Hustler
-http://178.124.183.5/hls/CH_BLUEHUSTLER/variant.m3u8
-#EXTINF:-1, group-title="Взрослые", Blue Hustler
-http://178.124.183.12/hls/CH_BLUEHUSTLER/bw2000000/playlist.m3u8?version=2
 #EXTINF:-1, group-title="Взрослые", Blue Hustler
 http://178.124.183.14:80/hls/CH_BLUEHUSTLER/variant.m3u8
 #EXTINF:-1, group-title="Взрослые", Blue Hustler
 http://178.124.183.5/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1, group-title="Взрослые", Blue Hustler
+http://178.124.183.12/hls/CH_BLUEHUSTLER/bw2000000/playlist.m3u8?version=2
+#EXTINF:-1, group-title="Взрослые", Blue Hustler
+http://178.124.183.5/hls/CH_BLUEHUSTLER/variant.m3u8
+#EXTINF:-1, group-title="Взрослые", Blue Hustler
+http://178.124.183.13/hls/CH_BLUEHUSTLER/bw1200000/playlist.m3u8
 #EXTINF:-1, group-title="Кино и Сериалы", Bollywood
 http://178.163.109.216:34040/udp/234.0.0.195:2000
 #EXTINF:-1, group-title="Кино и Сериалы", Bollywood
 http://178.163.55.176:4022/udp/234.0.0.195:2000
 #EXTINF:-1, group-title="Кино и Сериалы", Bolt Россия
-http://178.124.183.5/hls/CH_BOLT/variant.m3u8?version=2
-#EXTINF:-1, group-title="Кино и Сериалы", Bolt Россия
 http://178.124.183.5/hls/CH_BOLT_HLS/variant.m3u8?version=2
+#EXTINF:-1, group-title="Кино и Сериалы", Bolt Россия
+http://178.124.183.13/hls/CH_BOLT/bw1200000/playlist.m3u8
 #EXTINF:-1, group-title="Кино и Сериалы", Bolt Россия
 http://178.124.183.5/hls/CH_BOLT/variant.m3u8
 #EXTINF:-1, group-title="Кино и Сериалы", Bolt Россия
-http://178.124.183.13/hls/CH_BOLT/bw1200000/playlist.m3u8
+http://178.124.183.5/hls/CH_BOLT/variant.m3u8?version=2
 #EXTINF:-1, group-title="Детские", Boomerang
-http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8?version=2
-#EXTINF:-1, group-title="Детские", Boomerang
-http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8
-#EXTINF:-1, group-title="Детские", Boomerang
-http://178.124.183.13/hls/JSQ2S6VQTE/bw1200000/playlist.m3u8
-#EXTINF:-1, group-title="Детские", Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
+http://178.124.183.14:80/hls/JSQ2S6VQTE/variant.m3u8
 #EXTINF:-1, group-title="Детские", Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
 #EXTINF:-1, group-title="Детские", Boomerang
-http://178.124.183.14:80/hls/JSQ2S6VQTE/variant.m3u8
-#EXTINF:-1, group-title="Мода & Шопинг", Boutique TV
-https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0038_nd)/index.m3u8
+http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8
+#EXTINF:-1, group-title="Детские", Boomerang
+http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8?version=2
+#EXTINF:-1, group-title="Детские", Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
+#EXTINF:-1, group-title="Детские", Boomerang
+http://178.124.183.13/hls/JSQ2S6VQTE/bw1200000/playlist.m3u8
 #EXTINF:-1, group-title="Мода & Шопинг", Boutique TV
 http://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0038_nd)/index.m3u8
-#EXTINF:-1, group-title="Музыкальные", Bridge TV
-https://rt-cache1.peers.tv/streaming/bridge/126/variable.m3u8
+#EXTINF:-1, group-title="Мода & Шопинг", Boutique TV
+https://cdn-ks.kyivstar.ua/Content/HLS/Live/Channel(ch0038_nd)/index.m3u8
 #EXTINF:-1, group-title="Музыкальные", Bridge TV
 http://188.243.12.63:81/udp/239.239.3.12:5239
+#EXTINF:-1, group-title="Музыкальные", Bridge TV
+https://rt-cache1.peers.tv/streaming/bridge/126/variable.m3u8
 #EXTINF:-1, group-title="Музыкальные", Bridge TV Classic
 https://rt-cache1.peers.tv/streaming/bridge_tv_classic/126/variable.m3u8
 #EXTINF:-1, group-title="Музыкальные", Bridge TV Dance
-http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/711/index.m3u8
-#EXTINF:-1, group-title="Музыкальные", Bridge TV Dance
 http://486032Vir.melpakomn.ru/iptv/WESVTQAXDA7Q8N/711/index.m3u8
+#EXTINF:-1, group-title="Музыкальные", Bridge TV Dance
+http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/711/index.m3u8
 #EXTINF:-1, group-title="Музыкальные", Bridge TV Русский хит
 https://rt-cache1.peers.tv/streaming/rusong_tv/126/variable.m3u8
 #EXTINF:-1, group-title="Музыкальные", Bridge TV Русский Хит
 http://178.163.52.134:4022/udp/234.0.0.179:2000
 #EXTINF:-1, group-title="Познавательные", Brodilo TV
-http://brodilo.tv:80/channel.php
-#EXTINF:-1, group-title="Познавательные", Brodilo TV
 http://brodilo.tv/channel.php
+#EXTINF:-1, group-title="Познавательные", Brodilo TV
+http://brodilo.tv:80/channel.php
 #EXTINF:-1, group-title="International", BT Sport 1 HD
 http://95.170.215.120/hls/m3u8/BT-Sport-1HD.m3u8
 #EXTINF:-1, group-title="International", BT Sport 2 HD
@@ -546,29 +546,29 @@ http://77.89.199.174:8000/play/1024/index.m3u8
 #EXTINF:-1, group-title="International", BTV COMEDY
 http://188.35.9.12:21151/udp/260f
 #EXTINF:-1, group-title="Music", California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
 #EXTINF:-1, group-title="Music", California Music Channel
 http://cmctv.ios.internapcdn.net:80/cmctv_vitalstream_com/live_1/CMC-TV/CCURstream0.m3u8
 #EXTINF:-1, group-title="Music", California Music Channel
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
 #EXTINF:-1, group-title="Иностранные", Canal Regional
 https://canalregional.md/tv/live/canalregional.m3u8
 #EXTINF:-1, group-title="Детские", Cartoon HD
 http://web.onair-radio.eu:1935/cartoon/cartoon/chunklist.m3u8
 #EXTINF:-1, group-title="Детские", Cartoon Network
+http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+#EXTINF:-1, group-title="Детские", Cartoon Network
+http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8
+#EXTINF:-1, group-title="Детские", Cartoon Network
 http://178.124.183.12/hls/CNVX7JRQJI/bw2000000/playlist.m3u8
 #EXTINF:-1, group-title="Детские", Cartoon Network
 http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/143/index.m3u8
 #EXTINF:-1, group-title="Детские", Cartoon Network
+http://178.124.183.14/hls/CNVX7JRQJI/bw1200000/playlist.m3u8
+#EXTINF:-1, group-title="Детские", Cartoon Network
 http://178.124.183.13/hls/CNVX7JRQJI/bw1200000/playlist.m3u8
 #EXTINF:-1, group-title="Детские", Cartoon Network
 http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8?version=2
-#EXTINF:-1, group-title="Детские", Cartoon Network
-http://178.124.183.14/hls/CNVX7JRQJI/bw1200000/playlist.m3u8
-#EXTINF:-1, group-title="Детские", Cartoon Network
-http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8
-#EXTINF:-1, group-title="Детские", Cartoon Network
-http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
 #EXTINF:-1, group-title="Детские", Cartoon Network HD
 http://188.35.9.11:21151/udp/185f
 #EXTINF:-1, group-title="Детские", Cartoon Network HD
@@ -592,13 +592,13 @@ http://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master.m3u8
 #EXTINF:-1, group-title="Познавательные", CCTV4
 https://russian-live.cgtn.com/data/d1/hls/17592_4.m3u8
 #EXTINF:-1, group-title="Познавательные", CCTV-Русский
-http://live.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1, group-title="Познавательные", CCTV-Русский
-http://live.cgtn.com/cctv-r.m3u8
+http://37.145.105.223:34040/udp/233.33.210.38:5050
 #EXTINF:-1, group-title="Познавательные", CCTV-Русский
 http://livefr.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1, group-title="Познавательные", CCTV-Русский
-http://37.145.105.223:34040/udp/233.33.210.38:5050
+http://live.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1, group-title="Познавательные", CCTV-Русский
+http://live.cgtn.com/cctv-r.m3u8
 #EXTINF:-1, group-title="International", CGTN China
 http://178.22.107.67:7000/play/CGTN
 #EXTINF:-1, group-title="Познавательные", CGTN Documentary
@@ -620,17 +620,17 @@ http://178.22.107.67:7000/play/CNCWorldChina
 #EXTINF:-1, group-title="International", CNL
 http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8
 #EXTINF:-1, group-title="International", CNN
-http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1, group-title="International", CNN
-https://live.dogannet.tv/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1, group-title="International", CNN
 https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?key=&amp;live=true&amp;app=com.cnnturk
-#EXTINF:-1, group-title="International", CNN
-https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1, group-title="International", CNN
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 #EXTINF:-1, group-title="International", CNN
 http://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1, group-title="International", CNN
+https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1, group-title="International", CNN
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1, group-title="International", CNN
+https://live.dogannet.tv/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1, group-title="International", CNN
 https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?key=&live=true&app=com.cnnturk
 #EXTINF:-1, group-title="International", COMEDY CENTRAL AUSTRIA
@@ -640,15 +640,15 @@ http://77.109.171.191:8000/play/a050
 #EXTINF:-1, group-title="International", COMEDY CENTRAL/VIVA
 http://77.109.171.191:8000/play/a05a
 #EXTINF:-1, group-title="Music", Company TV
-http://wma10.fluidstream.net/CompanyTV/_definst_:livestream_720p/playlist.m3u8
-#EXTINF:-1, group-title="Music", Company TV
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/chunklist_w1677522406.m3u8
-#EXTINF:-1, group-title="Music", CONTACT music
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8
+#EXTINF:-1, group-title="Music", Company TV
+http://wma10.fluidstream.net/CompanyTV/_definst_:livestream_720p/playlist.m3u8
 #EXTINF:-1, group-title="Music", CONTACT music
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 #EXTINF:-1, group-title="Music", CONTACT music
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1, group-title="Music", CONTACT music
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8
 #EXTINF:-1, group-title="Детские", Da Vinci Learning
 http://213.174.8.7:11111/index.m3u8
 #EXTINF:-1, group-title="Детские", Da Vinci Learning
@@ -656,11 +656,11 @@ http://213.174.8.7:8000/play/21/index.m3u8
 #EXTINF:-1, group-title="Music", Deejay TV (IT)
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1, group-title="Music", Deluxe Music
-http://188.35.9.12:21031/udp/082r
+http://188.35.9.11:21031/udp/082r
 #EXTINF:-1, group-title="Music", Deluxe Music
 http://77.109.171.191:8000/play/xxxDeluxeMusicxxx
 #EXTINF:-1, group-title="Music", Deluxe Music
-http://188.35.9.11:21031/udp/082r
+http://188.35.9.12:21031/udp/082r
 #EXTINF:-1, group-title="International", Deutsche Welle
 http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
 #EXTINF:-1, group-title="International", Deutsche Welle
@@ -668,77 +668,77 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1, group-title="International", Deutsche Welle Espanol
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_3_av-p.m3u8
 #EXTINF:-1, group-title="International", Deutsches Musik Fernsehen
-https://tv.artcom-venture.de/dmf/tv_720.m3u8
-#EXTINF:-1, group-title="International", Deutsches Musik Fernsehen
 https://tv.artcom-venture.de/dmf/tv_360.m3u8
-#EXTINF:-1, group-title="International", Digi 24 HD
-http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:-1, group-title="International", Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv_720.m3u8
 #EXTINF:-1, group-title="International", Digi 24 HD
 http://82.76.40.76/digi24edge/smil:digi24.smil/chunklist_w41349427_b2830400_sleng.m3u8
+#EXTINF:-1, group-title="International", Digi 24 HD
+http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8
 #EXTINF:-1, group-title="Познавательные", Discovery Channel
 http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8
 #EXTINF:-1, group-title="Познавательные", Discovery Channel
 http://213.174.8.7:8000/play/24/index.m3u8
 #EXTINF:-1, group-title="Познавательные", Discovery Channel
+http://37.192.100.141:81/udp/239.1.5.1:1234
+#EXTINF:-1, group-title="Познавательные", Discovery Channel
 http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/140/index.m3u8
 #EXTINF:-1, group-title="Познавательные", Discovery Channel
 http://83.167.253.110:5000/live/discovery/playlist.m3u8
-#EXTINF:-1, group-title="Познавательные", Discovery Channel
-http://37.192.100.141:81/udp/239.1.5.1:1234
 #EXTINF:-1, group-title="Познавательные", Discovery HD Showcase
 http://54.38.180.196/play/272/2D6E866C992891C/video.m3u8
-#EXTINF:-1, group-title="Познавательные", Discovery Science
-http://94.177.136.29:7478/play/a039
-#EXTINF:-1, group-title="Познавательные", Discovery Science
-http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/136/index.m3u8
 #EXTINF:-1, group-title="Познавательные", Discovery Science
 http://182.73.122.74:10003/bysid/914
 #EXTINF:-1, group-title="Познавательные", Discovery Science
 http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
-#EXTINF:-1, group-title="Познавательные", Discovery Science HD
-http://188.35.9.12:21151/udp/188k
+#EXTINF:-1, group-title="Познавательные", Discovery Science
+http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/136/index.m3u8
+#EXTINF:-1, group-title="Познавательные", Discovery Science
+http://94.177.136.29:7478/play/a039
 #EXTINF:-1, group-title="Познавательные", Discovery Science HD
 http://188.35.9.11:21151/udp/188k
+#EXTINF:-1, group-title="Познавательные", Discovery Science HD
+http://188.35.9.12:21151/udp/188k
 #EXTINF:-1, group-title="Познавательные", Discovery World
 http://78.157.230.19/streaming/discoveryworld/364/gpu_tvrecw/playlist.m3u8
 #EXTINF:-1, group-title="Детские", Disney
 http://182.73.122.74:10001/bysid/701
 #EXTINF:-1, group-title="Детские", Disney
-http://37.235.150.138:81/udp/225.50.64.67:1234
+http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8?version=2
+#EXTINF:-1, group-title="Детские", Disney
+http://176.14.238.215:4022/udp/233.33.210.7:5050
+#EXTINF:-1, group-title="Детские", Disney
+http://178.163.58.72:4022/udp/234.0.0.198:2000
 #EXTINF:-1, group-title="Детские", Disney
 http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/524/index.m3u8
 #EXTINF:-1, group-title="Детские", Disney
-http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8?version=2
+http://37.235.150.138:81/udp/225.50.64.67:1234
 #EXTINF:-1, group-title="Детские", Disney
 http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+#EXTINF:-1, group-title="Детские", Disney
+http://188.243.212.85:4444/udp/239.239.3.10:5239
 #EXTINF:-1, group-title="Детские", Disney
 http://46.180.99.15:81/udp/239.255.42.26:1234
 #EXTINF:-1, group-title="Детские", Disney
 http://37.193.197.73:81/udp/239.1.15.12:1234
 #EXTINF:-1, group-title="Детские", Disney
 http://195.14.45.212:4000/udp/233.33.210.7:5050
-#EXTINF:-1, group-title="Детские", Disney
-http://188.243.212.85:4444/udp/239.239.3.10:5239
-#EXTINF:-1, group-title="Детские", Disney
-http://176.14.238.215:4022/udp/233.33.210.7:5050
-#EXTINF:-1, group-title="Детские", Disney
-http://178.163.58.72:4022/udp/234.0.0.198:2000
 #EXTINF:-1, group-title="Детские", Disney (+7)
 http://158.46.115.68:81/udp/239.255.42.26:1234
-#EXTINF:-1, group-title="Детские", Disney Channel
-http://37.145.19.235:4022/udp/233.33.210.7:5050
-#EXTINF:-1, group-title="Детские", Disney Channel
-http://77.109.171.191:8000/play/a04q
 #EXTINF:-1, group-title="Детские", Disney Channel
 http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
 #EXTINF:-1, group-title="Детские", Disney Channel
 http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/index.m3u8
+#EXTINF:-1, group-title="Детские", Disney Channel
+http://37.145.19.235:4022/udp/233.33.210.7:5050
+#EXTINF:-1, group-title="Детские", Disney Channel
+http://77.109.171.191:8000/play/a04q
+#EXTINF:-1, group-title="Детские", Disney Junior
+http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
 #EXTINF:-1, group-title="Детские", Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1, group-title="Детские", Disney Junior
 http://88.119.220.2/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
-#EXTINF:-1, group-title="Детские", Disney Junior
-http://185.176.117.243/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8
 #EXTINF:-1, group-title="Детские", Disney XD
 http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
 #EXTINF:-1, group-title="International", Ditty TV
@@ -750,9 +750,9 @@ http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
 #EXTINF:-1, group-title="Иностранные", Dombyra TV
 https://sc.id-tv.kz/Dombyra_38_39.m3u8
 #EXTINF:-1, group-title="Мужские", DTX
-https://rt-cache1.peers.tv/streaming/discoveryworld/16/tvrecw/playlist.m3u8
-#EXTINF:-1, group-title="Мужские", DTX
 http://37.195.247.86:81/udp/239.1.5.2:1234
+#EXTINF:-1, group-title="Мужские", DTX
+https://rt-cache1.peers.tv/streaming/discoveryworld/16/tvrecw/playlist.m3u8
 #EXTINF:-1, group-title="International", Dubai Sports
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1, group-title="International", Dubai Sports 2
@@ -760,9 +760,9 @@ http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3
 #EXTINF:-1, group-title="International", Dubai Sports 3
 http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
 #EXTINF:-1, group-title="Детские", ducktv
-http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-#EXTINF:-1, group-title="Детские", ducktv
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:-1, group-title="Детские", ducktv
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 #EXTINF:-1, group-title="Познавательные", EarthTV The World Live
 http://strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1, group-title="Познавательные", EarthTV The World Live
@@ -770,13 +770,13 @@ https://strm.yandex.ru/kal/worldlife/worldlife0.m3u8
 #EXTINF:-1, group-title="Music", ECKO EXPRES  music
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8?offsetSeconds=0
 #EXTINF:-1, group-title="Детские", English Club TV
-http://livecdnh2.tvanywhere.ae/hls/english_club/index.m3u8
+http://178.163.84.27:4022/udp/234.0.0.174:2000
 #EXTINF:-1, group-title="Детские", English Club TV
 http://178.163.58.72:4022/udp/234.0.0.174:2000
 #EXTINF:-1, group-title="Детские", English Club TV
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 #EXTINF:-1, group-title="Детские", English Club TV
-http://178.163.84.27:4022/udp/234.0.0.174:2000
+http://livecdnh2.tvanywhere.ae/hls/english_club/index.m3u8
 #EXTINF:-1, group-title="Музыкальные", Enter Music
 http://v2.catcast.me/content/36007/index.m3u8
 #EXTINF:-1, group-title="Украина", Enter-фильм
@@ -784,63 +784,63 @@ http://188.35.9.5:10007/stolen/138w/parasite.install
 #EXTINF:-1, group-title="Украина", Enter-фильм
 http://188.35.9.11:11052/g
 #EXTINF:-1, group-title="Кино и Сериалы", Epic Drama
+https://cdn2.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/index.m3u8
+#EXTINF:-1, group-title="Кино и Сериалы", Epic Drama
 http://88.119.220.2/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
 #EXTINF:-1, group-title="Кино и Сериалы", Epic Drama
 http://185.176.117.243/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
-#EXTINF:-1, group-title="Кино и Сериалы", Epic Drama
-https://cdn2.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/index.m3u8
 #EXTINF:-1, group-title="Мужские", Euro Al
 http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
-#EXTINF:-1, group-title="Новости", EuroNews
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1, group-title="Новости", EuroNews
 http://37.145.19.235:4022/udp/233.33.210.34:5050
 #EXTINF:-1, group-title="Новости", EuroNews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
-#EXTINF:-1, group-title="Новости", Euronews (английский)
-http://178.124.183.5/hls/C5P6YOXJZT/variant.m3u8?version=2
-#EXTINF:-1, group-title="Новости", Euronews (английский)
-http://178.124.183.5/hls/C5P6YOXJZT_HLS/variant.m3u8
-#EXTINF:-1, group-title="Новости", Euronews (английский)
-http://178.124.183.5/hls/C5P6YOXJZT/variant.m3u8
+#EXTINF:-1, group-title="Новости", EuroNews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1, group-title="Новости", Euronews (английский)
 http://178.124.183.13/hls/C5P6YOXJZT/bw1200000/playlist.m3u8
 #EXTINF:-1, group-title="Новости", Euronews (английский)
 http://178.124.183.5/hls/C5P6YOXJZT_HLS/variant.m3u8?version=2
+#EXTINF:-1, group-title="Новости", Euronews (английский)
+http://178.124.183.5/hls/C5P6YOXJZT/variant.m3u8
+#EXTINF:-1, group-title="Новости", Euronews (английский)
+http://178.124.183.5/hls/C5P6YOXJZT_HLS/variant.m3u8
+#EXTINF:-1, group-title="Новости", Euronews (английский)
+http://178.124.183.5/hls/C5P6YOXJZT/variant.m3u8?version=2
 #EXTINF:-1, group-title="Новости", Euronews DE
 http://188.35.9.11:21111/udp/166l
 #EXTINF:-1, group-title="Новости", Euronews DE
 http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
 #EXTINF:-1, group-title="Спортивные", Eurosport 1
+http://109.171.6.220:81/udp/239.54.6.174:1224
+#EXTINF:-1, group-title="Спортивные", Eurosport 1
+http://31.133.47.1:8800/eurosport
+#EXTINF:-1, group-title="Спортивные", Eurosport 1
+http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8
+#EXTINF:-1, group-title="Спортивные", Eurosport 1
+http://213.174.8.7:8000/play/15/index.m3u8
+#EXTINF:-1, group-title="Спортивные", Eurosport 1
 http://nexterr.ottv.info/iptv/F7WWXGUG4PCU8S/228/index.m3u8
 #EXTINF:-1, group-title="Спортивные", Eurosport 1
 http://188.35.9.12:21031/udp/033z
 #EXTINF:-1, group-title="Спортивные", Eurosport 1
-http://109.171.6.220:81/udp/239.54.6.174:1224
-#EXTINF:-1, group-title="Спортивные", Eurosport 1
-http://188.35.9.11:21081/udp/098t
-#EXTINF:-1, group-title="Спортивные", Eurosport 1
-http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="Спортивные", Eurosport 1
-http://31.133.47.1:8800/eurosport
-#EXTINF:-1, group-title="Спортивные", Eurosport 1
 https://rt-cache1.peers.tv/streaming/eurosport/16/tvrecw/playlist.m3u8
 #EXTINF:-1, group-title="Спортивные", Eurosport 1
-http://213.174.8.7:8000/play/15/index.m3u8
+http://188.35.9.11:21081/udp/098t
+#EXTINF:-1, group-title="Спортивные", Eurosport 2
+http://92.46.127.146:8080/Eurosport2/index.m3u8
+#EXTINF:-1, group-title="Спортивные", Eurosport 2
+http://9cc8074b.melpakomn.ru/iptv/64M42VMW5MMUVN/234/index.m3u8
+#EXTINF:-1, group-title="Спортивные", Eurosport 2
+http://188.35.9.11:11089/e
 #EXTINF:-1, group-title="Спортивные", Eurosport 2
 http://31.133.47.1:8800/eurosport_2
 #EXTINF:-1, group-title="Спортивные", Eurosport 2
 https://rt-cache1.peers.tv/streaming/eurosport2/16/tvrecw/playlist.m3u8
-#EXTINF:-1, group-title="Спортивные", Eurosport 2
-http://188.35.9.11:11089/e
-#EXTINF:-1, group-title="Спортивные", Eurosport 2
-http://9cc8074b.melpakomn.ru/iptv/64M42VMW5MMUVN/234/index.m3u8
-#EXTINF:-1, group-title="Спортивные", Eurosport 2
-http://92.46.127.146:8080/Eurosport2/index.m3u8
-#EXTINF:-1, group-title="Спортивные", Eurosport 2 Poland
-http://188.35.9.12:21151/udp/192c
 #EXTINF:-1, group-title="Спортивные", Eurosport 2 Poland
 http://188.35.9.11:21151/udp/192c
+#EXTINF:-1, group-title="Спортивные", Eurosport 2 Poland
+http://188.35.9.12:21151/udp/192c
 #EXTINF:-1, group-title="International", EWTN
 http://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8
 #EXTINF:-1, group-title="Прочее", EWTN UA
@@ -852,9 +852,9 @@ http://78.157.230.19/streaming/extreme_sports/364/gpu_tvrecw/playlist.m3u8
 #EXTINF:-1, group-title="Спортивные", Extreme sports
 http://178.163.120.173:4022/udp/234.0.0.150:2000
 #EXTINF:-1, group-title="Кино и Сериалы", FAN HD
-https://rt-cache1.peers.tv/streaming/fan_hd/16/copy/playlist.m3u8
-#EXTINF:-1, group-title="Кино и Сериалы", FAN HD
 http://217.25.216.4:8085/udp/238.2.29.234:1234
+#EXTINF:-1, group-title="Кино и Сериалы", FAN HD
+https://rt-cache1.peers.tv/streaming/fan_hd/16/copy/playlist.m3u8
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion One
 http://188.35.9.11:21031/udp/058v
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion One
@@ -862,25 +862,25 @@ http://77.109.171.191:8000/play/a07o
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion One HD
 http://178.163.18.154:4022/udp/234.0.0.212:2000
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1, group-title="Мода & Шопинг", Fashion TV
-http://46.180.99.15:81/udp/239.255.42.51:1234
-#EXTINF:-1, group-title="Мода & Шопинг", Fashion TV
 http://176.114.128.43:81/udp/239.100.5.7:1234
+#EXTINF:-1, group-title="Мода & Шопинг", Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1, group-title="Мода & Шопинг", Fashion TV
+http://46.180.99.15:81/udp/239.255.42.51:1234
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion TV (SK)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion TV (SK)
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-#EXTINF:-1, group-title="Мода & Шопинг", Fashion TV (SK)
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1, group-title="Мода & Шопинг", Fashion TV (SK)
 http://80.94.54.42/fashiontv/stream/chunklist_w1498188138.m3u8
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion TV (SK)
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+#EXTINF:-1, group-title="Мода & Шопинг", Fashion TV (SK)
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1, group-title="Мода & Шопинг", Fashion TV (SK)
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion TV (SK)
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion TV 1
@@ -888,21 +888,21 @@ https://strm.yandex.ru/kal/fashiontv/fashiontv0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion TV Europe
 http://83.97.104.124:5555/udp/224.0.45.169:1234
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion TV PG13
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion TV PG13
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion TV PG16
-https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist_b4700000.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion TV PG16
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion TV PG16
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist_b4700000.m3u8
 #EXTINF:-1, group-title="Мода & Шопинг", Fashion TV VOD
 http://fash1043.cloudycdn.services/vod/_definst_/43/00/11/102218/1o2_dm_x3oqree.smil/playlist.m3u8
 #EXTINF:-1, group-title="Спортивные", FightBox HD
@@ -916,11 +916,11 @@ http://182.73.122.74:10003/bysid/920
 #EXTINF:-1, group-title="International", FixHD
 http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
 #EXTINF:-1, group-title="Познавательные", Food Network
-http://46.180.99.15:81/udp/239.255.42.201:1234
+http://182.73.122.74:10003/bysid/916
 #EXTINF:-1, group-title="Познавательные", Food Network
 http://95.86.32.7:999/food
 #EXTINF:-1, group-title="Познавательные", Food Network
-http://182.73.122.74:10003/bysid/916
+http://46.180.99.15:81/udp/239.255.42.201:1234
 #EXTINF:-1, group-title="International", Foodie Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 #EXTINF:-1, group-title="Познавательные", Foodman.club
@@ -928,59 +928,67 @@ http://strm.yandex.ru/kal/joycook_supres/joycook_supres0_169_480p.json/index-v1-
 #EXTINF:-1, group-title="Кино и Сериалы", Fox
 http://178.124.183.5/hls/CH_FOX/variant.m3u8
 #EXTINF:-1, group-title="Кино и Сериалы", Fox
+http://178.124.183.5/hls/CH_FOX/variant.m3u8?version=2
+#EXTINF:-1, group-title="Кино и Сериалы", Fox
 http://178.124.183.5/hls/CH_FOX/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1, group-title="Кино и Сериалы", Fox
+http://178.124.183.12/hls/CH_FOX/bw2000000/playlist.m3u8
 #EXTINF:-1, group-title="Кино и Сериалы", Fox
 http://178.124.183.5/hls/CH_FOX_HLS/variant.m3u8
 #EXTINF:-1, group-title="Кино и Сериалы", Fox
-http://178.124.183.5/hls/CH_FOX/variant.m3u8?version=2
-#EXTINF:-1, group-title="Кино и Сериалы", Fox
-http://178.163.12.60:4022/udp/234.0.0.184:2000
+http://178.163.96.140:4022/udp/234.0.0.184:2000
 #EXTINF:-1, group-title="Кино и Сериалы", Fox
 http://178.124.183.13/hls/CH_FOX/bw1200000/playlist.m3u8
 #EXTINF:-1, group-title="Кино и Сериалы", Fox
-http://178.163.96.140:4022/udp/234.0.0.184:2000
-#EXTINF:-1, group-title="Кино и Сериалы", Fox
-http://178.124.183.12/hls/CH_FOX/bw2000000/playlist.m3u8
+http://178.163.12.60:4022/udp/234.0.0.184:2000
 #EXTINF:-1, group-title="International", Fox Comedy HD
 http://188.35.9.12:21161/udp/173c
 #EXTINF:-1, group-title="International", Fox HD
-http://188.35.9.12:21131/udp/147l
-#EXTINF:-1, group-title="International", Fox HD
 http://188.35.9.11:21131/udp/147l
+#EXTINF:-1, group-title="International", Fox HD
+http://188.35.9.12:21131/udp/147l
 #EXTINF:-1, group-title="Кино и Сериалы", Fox Life
-http://178.124.183.13/hls/CH_FOXL/bw1200000/playlist.m3u8
+http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2&offset=-28800
 #EXTINF:-1, group-title="Кино и Сериалы", Fox Life
-http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2
+http://178.124.183.5/hls/CH_FOXL_HLS/variant.m3u8
 #EXTINF:-1, group-title="Кино и Сериалы", Fox Life
 http://178.124.183.12/hls/CH_FOXL/bw2000000/playlist.m3u8
 #EXTINF:-1, group-title="Кино и Сериалы", Fox Life
 http://178.124.183.5/hls/CH_FOXL/variant.m3u8
 #EXTINF:-1, group-title="Кино и Сериалы", Fox Life
-http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2&offset=-28800
+http://178.124.183.13/hls/CH_FOXL/bw1200000/playlist.m3u8
 #EXTINF:-1, group-title="Кино и Сериалы", Fox Life
-http://178.124.183.5/hls/CH_FOXL_HLS/variant.m3u8
+http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2
 #EXTINF:-1, group-title="International", Fox Sports
 http://45.58.62.92:8080
 #EXTINF:-1, group-title="International", France 24 English
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1, group-title="International", France 24 English
-http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1, group-title="International", France 24 English
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1, group-title="International", France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
 #EXTINF:-1, group-title="Музыкальные", Fresh TV
-http://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
+https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1, group-title="Музыкальные", Fresh TV
 https://strm.yandex.ru/kal/fresh/fresh0_169_360p.json/index-v1-a1.m3u8
 #EXTINF:-1, group-title="Музыкальные", Fresh TV
-https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
+http://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1, group-title="Украина", G TV Одесса
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
 #EXTINF:-1, group-title="Украина", G TV Одесса
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
 #EXTINF:-1, group-title="Иностранные", Gakku TV
 http://sc.id-tv.kz/Gakku_36_37.m3u8
+#EXTINF:-1, group-title="Pakistan", Geo Kahani
+http://streamer64.eboundservices.com/geo/geokahani_abr/geo/geokahani_master/chunks.m3u8
+#EXTINF:-1, group-title="Pakistan", Geo News
+http://stream.jeem.tv/geo/geonews/playlist.m3u8
+#EXTINF:-1, group-title="Pakistan", Geo TV (Opt-1)
+http://stream.jeem.tv/geo/geoentertainment/chunks.m3u8
+#EXTINF:-1, group-title="Pakistan", Geo TV (Opt-2)
+http://streamer64.eboundservices.com/geo/geoentertainment_abr/geo/geoentertainment_master/chunks.m3u8
 #EXTINF:-1, group-title="Познавательные", Glazella HD
 http://188.242.237.246:65535/udp/239.239.3.72:5239
 #EXTINF:-1, group-title="Music", Gold TV (MD)
