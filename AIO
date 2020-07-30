@@ -1,1 +1,3 @@
-q
+#EXTM3U
+#EXTINF:-1 group-title="Music",1 Music Channel Hungary
+http://1music.hu/1music.m3u8
